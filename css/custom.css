@@ -1,0 +1,115 @@
+/* HEADER */
+.header-logo {
+    height: 90px;
+    padding: 20px 100px;
+}
+
+/* BODY */
+
+.bg-yellow {
+    background-color: #FFCE27;
+}
+.mac-image {
+ height: 400px;
+}
+
+.body-padding {
+    padding: 80px;
+}
+
+.sixty-percent{
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.forty-perceent {
+    display: table-cell;
+    vertical-align: middle;
+    width: 40%;
+}
+
+.vertical {
+    margin-top:11%;
+    display: inline-block;
+}
+
+.yellow-block h1,h2,h3,h4,h5,h6,p{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.learn-button{
+    padding: 15px;
+    color: #fff;
+    border-color: #fff;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.learn-button a, .learn-button a:hover{
+    color: #fff;
+    border-color: #fff;
+}
+
+.more-button {
+    padding: 15px;
+    color: #000;
+    border-color: #000;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+}
+
+.more-button a, .more-button a:hover{
+    color: #000;
+    border-color: #000;
+}
+
+.active {
+    background-color: #bbbbbb;
+}
+.badge-padding{
+ padding-bottom: 50px;
+}
+
+.badges-container {
+    margin: 80px auto;
+    padding: 10px auto;
+}
+
+.badges-container img{
+    height: 150px;
+}
+.badges-text {
+    color: #000;
+}
+
+.badges-container .col-md-4 {
+    text-align: center;
+}
+
+/* MODAL */
+
+.modal-dialog p {
+
+text-align: center;
+color: #444;
+
+}
+
+.modal-dialog {
+    width: 40%;
+}
+
+.head-html {
+    background-color: #F16529;
+}
+.head-css {
+    background-color: #29A9DF;
+}
+.head-js {
+    background-color: #FBDD35;
+}
